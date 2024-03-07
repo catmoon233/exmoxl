@@ -1,0 +1,244 @@
+{
+  "positiveEntry1": {
+    "displayname": "锐利",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": 0.3,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry2": {
+    "displayname": "锋利",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": 0.15,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry3": {
+    "displayname": "锐戈",
+    "attributes": {
+      "exmoxl:crit": {
+        "value": 15,
+        "operation": "ADDITION"
+      },
+      "exmoxl:critdamage": {
+        "value": 15,
+        "operation": "ADDITION"
+      }
+    }
+  },
+  "positiveEntry4": {
+    "displayname": "称手",
+    "attributes": {
+      "minecraft:generic.attack_speed": {
+        "value": 0.2,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_damage": {
+        "value": 0.1,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry5": {
+    "displayname": "敏捷",
+    "attributes": {
+      "minecraft:generic.attack_speed": {
+        "value": 0.3,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.movement_speed": {
+        "value": 0.3,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry6": {
+    "displayname": "安若磐石",
+    "attributes": {
+      "minecraft:generic.knockback_resistance": {
+        "value": 1,
+        "operation": "ADDITION"
+      },
+      "minecraft:generic.armor": {
+        "value": 0.1,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry7": {
+    "displayname": "迟钝",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": -0.1,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.movement_speed": {
+        "value": -0.2,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_speed": {
+        "value": -0.2,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry8": {
+    "displayname": "生锈",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": -0.3,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_speed": {
+        "value": -0.3,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry9": {
+    "displayname": "不利",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": -0.4,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry10": {
+    "displayname": "嗜血",
+    "attributes": {
+      "minecraft:generic.max_health": {
+        "value": -0.3,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_damage": {
+        "value": 0.5,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry11": {
+    "displayname": "铁皮之力",
+    "attributes": {
+      "minecraft:generic.armor": {
+        "value": 0.25,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_speed": {
+        "value": -0.2,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry12": {
+    "displayname": "体魄祝福",
+    "attributes": {
+      "minecraft:generic.max_health": {
+        "value": 0.5,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.armor_toughness": {
+        "value": 3,
+        "operation": "ADDITION"
+      }
+    }
+  },
+  "positiveEntry111": {
+    "displayname": "精准",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": 0.2,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry121": {
+    "displayname": "迅捷",
+    "attributes": {
+      "minecraft:generic.movement_speed": {
+        "value": 0.4,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry131": {
+    "displayname": "坚韧",
+    "attributes": {
+      "minecraft:generic.max_health": {
+        "value": 0.3,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry14": {
+    "displayname": "灵巧",
+    "attributes": {
+      "minecraft:generic.attack_speed": {
+        "value": 0.2,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry15": {
+    "displayname": "勇敢",
+    "attributes": {
+      "minecraft:generic.knockback_resistance": {
+        "value": 0.1,
+        "operation": "ADDITION"
+      }
+    }
+  },
+  "positiveEntry16": {
+    "displayname": "专注",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": 0.3,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry17": {
+    "displayname": "均衡",
+    "attributes": {
+      "minecraft:generic.armor": {
+        "value": 0.2,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry18": {
+    "displayname": "灵敏",
+    "attributes": {
+      "minecraft:generic.movement_speed": {
+        "value": 0.1,
+        "operation": "MULTIPLY_BASE"
+      },
+      "minecraft:generic.attack_speed": {
+        "value": 0.1,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry19": {
+    "displayname": "坚固",
+    "attributes": {
+      "minecraft:generic.armor": {
+        "value": 0.4,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  },
+  "positiveEntry110": {
+    "displayname": "机警",
+    "attributes": {
+      "minecraft:generic.attack_damage": {
+        "value": 0.5,
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  }
+}
