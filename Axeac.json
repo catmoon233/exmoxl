@@ -1,34 +1,21 @@
 {
 "minecraft:iron_axe": {
-    "LongWeaponsa": 25,
-    "Axea": 25,
-    "Sticka": 25,
-    "ShortWeaponsa": 25,
-    "RemoteWeaponsa": 25,
-    "AtomicTanka": 25,
-    "LightWeaponsa": 25,
-    "Knifea": 25,
-    "Sworda":10
+ 
 },
 "minecraft:wooden_axe":
 {
-    "Sworda":10,
-    "Axea":0
+ 
 },
 "minecraft:stone_axe":
 {
-    "Axea":10
 },
 "minecraft:diamond_axe":
 {
-    "Axea":40
 },
 "minecraft:golden_axe":
 {
-    "Axea":20
 },
 "minecraft:netherite_axe":
 {
-    "Axea":50
 }
 }
